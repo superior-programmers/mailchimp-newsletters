@@ -1,0 +1,2 @@
+# mailchimp-newsletters
+MailChimp newsletters
